@@ -1,0 +1,10 @@
+footer {
+  width: 100%;
+  height: 50px;
+  color: whitesmoke;
+margin-top: 24px;
+}
+footer > h5 {
+  text-align: center;
+  line-height: 50px;
+}
